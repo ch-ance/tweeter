@@ -8,3 +8,9 @@ database commands::
 	rails db:migrate
 	rails db:rollback
 	rails db:migrate VERSION=0 // Base migration
+
+
+
+rails test:
+	red - green - refactor
+	follow the error messages
