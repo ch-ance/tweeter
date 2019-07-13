@@ -1,0 +1,1 @@
+rails generate controller 'ControllerName' 'controller1' 'controller2'
