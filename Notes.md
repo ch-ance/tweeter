@@ -16,3 +16,7 @@ rails test:
 	follow the error messages
 
 'def setup' is a special test that is run before every test
+
+
+Helpers:
+	custom built-in functions in Ruby
