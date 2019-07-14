@@ -17,6 +17,9 @@
 !/log/.keep
 !/tmp/.keep
 
+# prevent conflicts between Spring and Git
+/spring/*.pid
+
 /node_modules
 /yarn-error.log
 
