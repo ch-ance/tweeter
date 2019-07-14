@@ -14,3 +14,5 @@ database commands::
 rails test:
 	red - green - refactor
 	follow the error messages
+
+'def setup' is a special test that is run before every test
